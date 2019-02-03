@@ -1,4 +1,4 @@
-@media screen and (max-width:980px) {
+
 body {background-color:grey;}
 #navbar navbar-expand-lg navbar-light 
 {
@@ -65,7 +65,7 @@ ul {
   }
 
   h3 {color:blue;font-size: 20px;font-weight: bold;margin-left: 19%;top:50px;position: absolute;}
-}
+
 
 @media screen and (max-width:768px) {
     body {background-color:grey;}
@@ -77,8 +77,8 @@ ul {
     .box {
         background-color: black;
         position: absolute;
-        width: 75%;
-        height: 62%;
+        width: 90%;
+        height: 90%;
         left: 500px;
         top: 114px;
     }
@@ -146,8 +146,8 @@ ul {
         .box {
             background-color: black;
             position: absolute;
-            width: 55%;
-            height: 62%;
+            width: 90%;
+            height: 90%;
             left: 500px;
             top: 114px;
         }

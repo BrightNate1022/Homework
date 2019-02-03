@@ -1,4 +1,4 @@
-@media screen and (max-width:980px){
+
 .line {
     position: absolute; 
     background-color: blue;
@@ -116,7 +116,6 @@ h1 {
 }
 body {
     background-color: grey;
-}
 }
 
 @media screen and (max-width:768px){
