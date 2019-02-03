@@ -9,7 +9,7 @@ h3 {color:blue;font-size: 20px;font-weight: bold;margin-left: 19%;top:10px;posit
 p {top:190px;color: blue;font-size: 20px;float: left;}
 ul {top:190px;color: blue;font-size: 20px;font-weight: bold;padding-bottom: 50px;}
 #img 
-{
+{float: left;
 margin-left: 5%;
 top: 10%;
 }
