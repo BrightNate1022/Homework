@@ -8,8 +8,9 @@ body {background-color:grey;}
     background-color: black;
     position: absolute;
     width: 55%;
-    height: 50%;
+    height: 62%;
     left: 500px;
+    top: 114px;
 }
 
 .text {
@@ -62,4 +63,4 @@ ul {
       margin-bottom: 20px;
   }
 
-  h3 {color:blue;font-size: 20px;font-weight: bold;margin-left: 19%;top:20px;position: absolute;}
+  h3 {color:blue;font-size: 20px;font-weight: bold;margin-left: 19%;top:50px;position: absolute;}
