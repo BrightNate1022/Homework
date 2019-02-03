@@ -16,14 +16,14 @@ top: 10%;
 }
 .box {
     background-color: black;
-    position: absolute;
+    position: relative;
     width: 55%;
     height: 80%;
     left: 500px;
 }
 
 .p {
-  position: absolute;
+  position: relative;
   top: -140px;
   left: 230px;
   width: 75%;
@@ -33,13 +33,13 @@ top: 10%;
 }
 
 .h1 {
-position: absolute;
+position: relative;
 width: 100%;
 margin-left: 20px;
 }
 
 .line {
-    position: absolute; 
+    position: relative; 
     background-color: blue;
     width: 95%;
     height: 3px;
@@ -48,7 +48,7 @@ margin-left: 20px;
 }
 
 ul {
-    position: absolute;
+    position: relative;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -71,7 +71,7 @@ ul {
   }
 
   .j {
-    position: absolute;
+    position: relative;
     top: 100px;
     left: 30px;
     width: 95%;
@@ -82,7 +82,7 @@ ul {
 }
 
 .g {
-    position: absolute;
+    position: relative;
     top: 220px;
     left: 30px;
     width: 95%;
