@@ -6,8 +6,8 @@ body {background-color:grey;}
 h1 {color: blue;font-size: 20px;font-weight: bold;}
 h2 {color: blue;font-size: 20px;font-weight: bold}
 h3 {color:blue;font-size: 20px;font-weight: bold;margin-left: 19%;top:10px;position: absolute;}
-p {top:190px;color: blue;font-size: 20px;position: relative}
-ul {top:190px;color: blue;font-size: 20px;font-weight: bold;}
+p {top:190px;color: blue;font-size: 20px;float: left;}
+ul {top:190px;color: blue;font-size: 20px;font-weight: bold;padding-bottom: 50px;}
 #img 
 {
 position: absolute;
@@ -61,26 +61,7 @@ ul {
       margin-bottom: 20px;
   }
 
-  .j {
-    position: relative;
-    top: 100px;
-    left: 30px;
-    width: 95%;
-    line-height: 38px;
-    margin-left: 25px;
-    font-weight: bold;
-    right: 15px;
-}
 
-.g {
-    position: relative;
-    top: 220px;
-    left: 30px;
-    width: 95%;
-    line-height: 38px;
-    margin-left: 25px;
-    font-weight: bold;
-}
 
 footer {
     background-color: black;
