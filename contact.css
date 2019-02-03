@@ -1,3 +1,4 @@
+@media screen and (max-width:980px) {
 body {background-color:grey;}
 #navbar navbar-expand-lg navbar-light 
 {
@@ -64,3 +65,142 @@ ul {
   }
 
   h3 {color:blue;font-size: 20px;font-weight: bold;margin-left: 19%;top:50px;position: absolute;}
+}
+
+@media screen and (max-width:768px) {
+    body {background-color:grey;}
+    #navbar navbar-expand-lg navbar-light 
+    {
+        background-color: grey
+    }
+    
+    .box {
+        background-color: black;
+        position: absolute;
+        width: 75%;
+        height: 62%;
+        left: 500px;
+        top: 114px;
+    }
+    
+    .text {
+        position: absolute;
+        color: blue;
+        left: 300px;
+        top: 80px;
+    }
+    
+    h1 {
+        color: blue;
+        font-weight: bold;
+    }
+    
+    .h1 {
+        position: absolute;
+        left: 130px;
+    }
+    
+    .line {
+        position: absolute; 
+        background-color: blue;
+        width: 95%;
+        height: 3px;
+        top: 60px;
+        left: 20px;
+    }
+    
+    ul {
+        position: absolute;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        top:25px;
+        right: 0px;
+        margin-right: 10%;
+        margin-top: 20px;
+        font-weight: bold;
+      }
+    
+      li {
+          display: inline;
+      }
+    
+      nav {
+          margin-left: 15%;
+          background-color: black;
+          margin-right: 5%;
+          height:10%;
+          margin-bottom: 20px;
+      }
+    
+      h3 {color:blue;font-size: 20px;font-weight: bold;margin-left: 19%;top:50px;position: static;}
+    }
+
+    @media screen and (max-width:640px) {
+        body {background-color:grey;}
+        #navbar navbar-expand-lg navbar-light 
+        {
+            background-color: grey
+        }
+        
+        .box {
+            background-color: black;
+            position: absolute;
+            width: 55%;
+            height: 62%;
+            left: 500px;
+            top: 114px;
+        }
+        
+        .text {
+            position: absolute;
+            color: blue;
+            left: 300px;
+            top: 80px;
+        }
+        
+        h1 {
+            color: blue;
+            font-weight: bold;
+        }
+        
+        .h1 {
+            position: absolute;
+            left: 130px;
+        }
+        
+        .line {
+            position: absolute; 
+            background-color: blue;
+            width: 95%;
+            height: 3px;
+            top: 60px;
+            left: 20px;
+        }
+        
+        ul {
+            position: absolute;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            top:25px;
+            right: 0px;
+            margin-right: 10%;
+            margin-top: 20px;
+            font-weight: bold;
+          }
+        
+          li {
+              display: inline;
+          }
+        
+          nav {
+              margin-left: 15%;
+              background-color: black;
+              margin-right: 5%;
+              height:10%;
+              margin-bottom: 20px;
+          }
+        
+          h3 {color:blue;font-size: 20px;font-weight: bold;margin-left: 19%;top:50px;position: static;}
+        }

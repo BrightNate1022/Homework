@@ -1,3 +1,4 @@
+@media screen and (max-width:980px){
 .line {
     position: absolute; 
     background-color: blue;
@@ -116,4 +117,247 @@ h1 {
 body {
     background-color: grey;
 }
+}
 
+@media screen and (max-width:768px){
+    .line {
+        position: absolute; 
+        background-color: blue;
+        width: 95%;
+        height: 3px;
+        top: 60px;
+        left: 20px;
+    }
+    
+    ul {
+        position: absolute;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        top:25px;
+        right: 0px;
+        margin-right: 10%;
+        margin-top: 20px;
+        font-weight: bold;
+      }
+    
+      li {
+          display: inline;
+      }
+    
+      nav {
+          margin-left: 15%;
+          background-color: black;
+          margin-right: 5%;
+          height:10%;
+          margin-bottom: 20px;
+      }
+    
+      h3 {color:blue;font-size: 20px;font-weight: bold;margin-left: 19%;top:50px;position: static;}
+    
+      .Hang {
+          position: absolute;
+          left: 600px;
+          top: 100px;
+      }
+    
+    .RPG_Game {
+    position: absolute;
+    right: 600px;
+    top: 100px;
+    }
+    
+    .Trivia_Game {
+        position: absolute; 
+        left: 600px;
+        top: 400px;
+    }
+    
+    .Rutgers_Info_Widget{
+        position: absolute;
+        right: 600px;
+        top: 400px;
+    }
+    
+    .Rock_Paper_Scissors{
+        position: absolute;
+        left: 220px;
+        top: 700px;
+    }
+    
+    .box {
+        background-color: black;
+        position: absolute;
+        width: 55%;
+        height: 100%;
+        left: 500px;
+        top: 104px;
+    }
+    
+    h1 {
+        color: blue;
+        position:absolute;
+        left: 45px;
+    }
+    
+    .h2{
+        color: blue;
+        left: 300px;
+        top: 340px;
+        position: absolute;
+    }
+    
+    .h4{
+        color: blue;
+        top: 340px;
+        right: 290px;
+        position: absolute;
+    }
+    
+    
+    .h5{
+     color: blue;
+     left: 300px;
+     top: 650px;
+     position: absolute;
+    }
+    
+    .h6{
+        color: blue;
+        right: 270px;
+        top: 660px;
+        position: absolute;
+    }
+    
+    .h7 {
+        color: blue;
+        left: 270px;
+        top: 950px;
+        position: absolute;
+    }
+    body {
+        background-color: grey;
+    }
+    }
+    
+    @media screen and (max-width:640px){
+        .line {
+            position: absolute; 
+            background-color: blue;
+            width: 95%;
+            height: 3px;
+            top: 60px;
+            left: 20px;
+        }
+        
+        ul {
+            position: absolute;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            top:25px;
+            right: 0px;
+            margin-right: 10%;
+            margin-top: 20px;
+            font-weight: bold;
+          }
+        
+          li {
+              display: inline;
+          }
+        
+          nav {
+              margin-left: 15%;
+              background-color: black;
+              margin-right: 5%;
+              height:10%;
+              margin-bottom: 20px;
+          }
+        
+          h3 {color:blue;font-size: 20px;font-weight: bold;margin-left: 19%;top:50px;position: static;}
+        
+          .Hang {
+              position: absolute;
+              left: 600px;
+              top: 100px;
+          }
+        
+        .RPG_Game {
+        position: absolute;
+        right: 600px;
+        top: 100px;
+        }
+        
+        .Trivia_Game {
+            position: absolute; 
+            left: 600px;
+            top: 400px;
+        }
+        
+        .Rutgers_Info_Widget{
+            position: absolute;
+            right: 600px;
+            top: 400px;
+        }
+        
+        .Rock_Paper_Scissors{
+            position: absolute;
+            left: 220px;
+            top: 700px;
+        }
+        
+        .box {
+            background-color: black;
+            position: absolute;
+            width: 55%;
+            height: 100%;
+            left: 500px;
+            top: 104px;
+        }
+        
+        h1 {
+            color: blue;
+            position:absolute;
+            left: 45px;
+        }
+        
+        .h2{
+            color: blue;
+            left: 300px;
+            top: 340px;
+            position: absolute;
+        }
+        
+        .h4{
+            color: blue;
+            top: 340px;
+            right: 290px;
+            position: absolute;
+        }
+        
+        
+        .h5{
+         color: blue;
+         left: 300px;
+         top: 650px;
+         position: absolute;
+        }
+        
+        .h6{
+            color: blue;
+            right: 270px;
+            top: 660px;
+            position: absolute;
+        }
+        
+        .h7 {
+            color: blue;
+            left: 270px;
+            top: 950px;
+            position: absolute;
+        }
+        body {
+            background-color: grey;
+        }
+        }
+        
