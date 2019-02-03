@@ -1,18 +1,11 @@
 body {background-color:grey;}
-#navbar navbar-expand-lg navbar-light 
-{
-    background-color: grey
-}
+
 h1 {color: blue;font-size: 20px;font-weight: bold;}
 h2 {color: blue;font-size: 20px;font-weight: bold}
 h3 {color:blue;font-size: 20px;font-weight: bold;margin-left: 19%;top:10px;position: absolute;}
-p {top:190px;color: blue;font-size: 20px;float: left;}
+p {top:190px;color: blue;font-size: 20px;float: left;font-weight: bold;line-height: 20%;}
 ul {top:190px;color: blue;font-size: 20px;font-weight: bold;padding-bottom: 50px;}
-#img 
-{float: left;
-margin-left: 5%;
-top: 10%;
-}
+
 .box {
     background-color: black;
     position: relative;
@@ -52,14 +45,7 @@ ul {
       display: inline;
   }
 
-  nav {
-      margin-left: 15%;
-      background-color: black;
-      margin-right: 5%;
-      height:10%;
-      margin-bottom: 20px;
-  }
-
+  
 
 
 footer {
